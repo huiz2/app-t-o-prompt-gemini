@@ -1,0 +1,5 @@
+{
+  "name": "Character Consistency Builder",
+  "description": "A specialized tool for creating consistent character prompts for video generation, featuring Vietnamese UI and detailed English output.",
+  "requestFramePermissions": []
+}
